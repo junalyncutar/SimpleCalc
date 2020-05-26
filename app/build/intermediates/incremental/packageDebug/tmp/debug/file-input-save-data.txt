@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 22 15:29:23 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Miss\\Documents\\android-fundamentals-starter-apps-v2-master\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
